@@ -69,7 +69,7 @@
     "react-dom": ">=18.0.0"
   },
   "dependencies": {
-    "@mui/material": "^5.8.1",
+    "@mui/material": "^5.11.11",
     "commonmark": "0.30.0",
     "cspell": "^6.2.3",
     "lodash": "4.17.21",
