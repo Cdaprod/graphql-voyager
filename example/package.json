@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "4.16.3",
     "express-graphql": "0.6.12",
-    "graphql": "14.0.2",
+    "graphql": "14.7.0",
     "graphql-server-hapi": "1.4.0",
     "graphql-voyager": "../",
     "hapi": "17.5.4",
