@@ -72,7 +72,7 @@
     "@mui/material": "^5.8.1",
     "commonmark": "0.30.0",
     "cspell": "^6.2.3",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "svg-pan-zoom": "^3.6.1",
     "viz.js": "2.1.2"
   },
